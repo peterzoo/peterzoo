@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Henry, a mech eng student @ uwaterloo. I'm interested in automation and 3d printing
+
+hh3sun@uwaterloo.ca
 <!--
 **peterzoo/peterzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
